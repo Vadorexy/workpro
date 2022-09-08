@@ -1,0 +1,17 @@
+body {
+  background-color:aliceblue;
+}
+
+hr {
+    background-color:aliceblue;
+    border-style: dashed;
+    border-color: inherit;
+    height:none;
+    width: 5%;
+}
+h1 {
+  color: #66bfbf;
+}
+h3 {
+  color: #66bfbf;
+}
